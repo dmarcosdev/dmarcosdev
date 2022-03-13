@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm David Marcos</h1>
 <h3 align="center">A student wanting to become a professional developer. I have completed the professional training in Multiplatform Application Development, now I am focusing on Web Application Development.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dmarcosdev" alt="dmarcosdev" /></a> </p>
 
 - 🔭 I’m currently working on [AtletismoCyL](https://expo.dev/@dmarcos/atletismocyl)
 
