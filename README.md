@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on [AtletismoCyL](https://expo.dev/@dmarcos/atletismocyl)
 
-- 🌱 I’m currently learning **JavaScript, PHP, SQL**
+- 🌱 I’m currently learning **JavaScript, PHP and SQL**
 
-- 👨‍💻 All of my projects are available at [Work in progress](Work in progress)
+- 👨‍💻 All of my projects are available at [Work in progress]
 
 - 📫 How to reach me **dmarcosdev@gmail.com**
 
